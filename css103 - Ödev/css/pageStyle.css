@@ -1,0 +1,36 @@
+h1 {
+    color:rgba(226, 242, 247, 0.76);
+    font-size: 32px;
+    font-style:italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: brown;
+    font-size: 24 px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    color: rgb(90, 88, 88);
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: black;
+    font-size: 12px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(185, 184, 184);
+    text-align: center;
+    margin: auto;
+    max-width:35%;
+}
+
+li {
+    font-size: 24 px;
+    
+}
